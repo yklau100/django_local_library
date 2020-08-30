@@ -1,4 +1,4 @@
-# Byte-compiled / optimized / DLL files
+﻿# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
@@ -128,17 +128,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-    © 2020 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Status
-    Help
+# Text backup files
+*.bak
 
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
+# Database
+*.sqlite3
 
